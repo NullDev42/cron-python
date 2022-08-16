@@ -1,6 +1,6 @@
 FROM python:3.10-alpine
 
-COPY . .
+COPY ["crontab", "install_req.sh", "requirements.txt", "task.py", "/"]
 
 RUN pip install --upgrade pip
 
