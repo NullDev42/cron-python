@@ -131,5 +131,5 @@ dmypy.json
 # docker
 .dockerignore
 
-# Git
+# git
 .gitignore
