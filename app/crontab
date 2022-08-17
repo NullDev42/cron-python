@@ -1,0 +1,1 @@
+*/5 * * * * python /app/task.py >> /app/logfile.txt
